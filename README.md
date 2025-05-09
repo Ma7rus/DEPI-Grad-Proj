@@ -9,21 +9,31 @@ The UK railway system faces persistent challenges, including delays and cancella
 
 # Stakeholer Analysis
 1.	Railway Companies & Infrastructure Managers:
+ 
  a.	Operators like Network Rail and train operating companies managing routes.
+ 
  b.	Utilize data-driven insights for better planning, cost management, and service improvements.
 
 3.	Train Operators & Staff:
+ 
  a.	Drivers, conductors, maintenance teams, and customer service representatives.3
+ 
  b.	Gain optimized scheduling, improved working conditions, and predictive maintenance tools for better service delivery.
 
 4.	Passengers:
+
  a.	Daily commuters, business travelers, and tourists who rely on efficient and reliable train services. 
+
  b.	Benefit from reduced delays, better communication on disruptions, and enhanced onboard experiences.
 
 5.	Government & Regulators: 
+ 
  a.	Transport authorities and policy makers oversee railway operations and service quality.
+
  b.	Ensure compliance with regulations and guide future investments in railway infrastructure.
 
 6.	Technology & Maintenance Providers:
+ 
  a.	Companies offering signaling systems, predictive maintenance tools, AI analytics, and real-time monitoring solutions.
+
  b.	Provide cutting-edge solutions to improve efficiency and reduce technical failures.
