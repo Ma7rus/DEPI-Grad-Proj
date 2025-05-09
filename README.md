@@ -1,1 +1,3 @@
 # DEPI-Grad-Proj
+This project aims to improve the efficiency and reliability of the UK Train Rides by analyzing historical data. This analysis will identify patterns, and anomalies to provide actionable insights for optimizing operations, reducing delays and cancellations, and enhancing passenger experience.
+The project analyze csv file of 18 columns within 31653 record. This data has been cleaned and processed, then used to answer questions. The project deliverables contain business insights report and dashboard, which give the business owner and stakeholders the overview the information they need from the analysis. 
